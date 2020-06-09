@@ -1,2 +1,0 @@
-# teswt
-syut
